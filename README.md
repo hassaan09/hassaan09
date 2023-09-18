@@ -12,8 +12,8 @@
  <table >
   <tr >
     <td align="left" width="60%" >  
-       
-- 🌱 I’m currently learning **Node.js, Express.js and MongoDB** at a Boot Camp https://iec.org.pk/  
+     
+ - 🌱 I’m currently learning **Node.js, Express.js and MongoDB** at a Boot Camp https://iec.org.pk/  
   
 - 👨‍🎓 Education : **Bachelor of Computer Science** from Comsats University https://www.cuiatd.edu.pk/
   
