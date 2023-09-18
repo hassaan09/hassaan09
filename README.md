@@ -9,7 +9,7 @@
 
 
 
- <table>
+ <table style="border: none;">
   <tr style="border: none;">
     <td align="left" width="70%" style="border: none;">- 🌱 I’m currently learning **Node.js, Express.js and MongoDB** at a Boot Camp https://iec.org.pk/  
   
