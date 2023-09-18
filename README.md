@@ -1,4 +1,5 @@
-![Hassaan-Banner](https://github.com/hassaan09/hassaan09/assets/82286003/5144382a-31ff-4586-92a7-f751ea9fb66a)
+![Purple Modern Gaming Youtube Banner](https://github.com/hassaan09/hassaan09/assets/82286003/4cdd6cd6-2043-4e9b-b127-94626ea9af5a)
+
 ### Hi I am Hassaan 👋
 ### I am a Back-End Developer 👨‍💻 & Machine Learning Enthusiast 
 
