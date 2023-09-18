@@ -11,8 +11,8 @@
 
  <table >
   <tr >
-    <td align="left" width="60%" > 
-- 🌱 I’m currently learning **Node.js, Express.js and MongoDB** at a Boot Camp https://iec.org.pk/  
+    <td align="left" width="60%" >  
+     - 🌱 I’m currently learning **Node.js, Express.js and MongoDB** at a Boot Camp https://iec.org.pk/  
   
 - 👨‍🎓 Education : **Bachelor of Computer Science** from Comsats University https://www.cuiatd.edu.pk/
   
@@ -24,7 +24,7 @@
  
 -  Pronouns: He/Him
     </td>
-    <td align="right" width="30%" >
+    <td align="right" width="40%" >
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Your Alt Text"> 
     </td>
   </tr>
