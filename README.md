@@ -1,4 +1,4 @@
-<img src=”https://github.com/hassaan09/hassaan09/assets/82286003/2a43e32c-01d8-4f05-be85-d59b702dc95a" alt=”my banner”>
+<img src=”https://github.com/hassaan09/hassaan09/assets/82286003/c753350b-9b2a-4c3e-86ac-0df2391e4d16.png" alt=”my banner”>
 ### Hi I am Hassaan 👋
 ### I am a Back-End Developer 👨‍💻 & Machine Learning Enthusiast 
 
