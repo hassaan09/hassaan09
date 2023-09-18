@@ -24,8 +24,8 @@
 -  Pronouns: He/Him
     </td>
     <td align="right" width="50%">
-      <!-- Your GIF goes here -->
-      <img src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" alt="Your Alt Text">
+     ![Alt Text](https://giphy.com/embed/SWoSkN6DxTszqIKEqv)
+<!--       <img src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" alt="Your Alt Text"> -->
     </td>
   </tr>
 </table>
