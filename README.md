@@ -9,21 +9,22 @@
 
 
 
- <table style="border: none; padding: 10px; margin: auto;">
-  <tr style="border: none; padding: 10px; margin: auto;">
-    <td align="left" width="70%" style="border: none; padding: 10px; margin: auto;">- 🌱 I’m currently learning **Node.js, Express.js and MongoDB** at a Boot Camp https://iec.org.pk/  
+ <table >
+  <tr >
+    <td align="left" width="60%" > 
+- 🌱 I’m currently learning **Node.js, Express.js and MongoDB** at a Boot Camp https://iec.org.pk/  
   
 - 👨‍🎓 Education : **Bachelor of Computer Science** from Comsats University https://www.cuiatd.edu.pk/
   
 - 👯 I’m looking to collaborate on real-world projects
  
-- 💬 Ask me about  **Web Development, Machine Learning, Artificail Intelligence**
+- 💬 Ask me about  **Web Development, Machine Learning, Artificial Intelligence**
  
 - 📫 How to reach me: hassaanindominus09@gmail.com
  
 -  Pronouns: He/Him
     </td>
-    <td align="right" width="30%" style="border: none; padding: 10px; margin: auto;">
+    <td align="right" width="30%" >
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Your Alt Text"> 
     </td>
   </tr>
