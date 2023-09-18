@@ -32,5 +32,5 @@
 </table>
 
 [![Hassaan's Github stats](https://github-readme-stats.vercel.app/api?username=hassaan09)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaan09&layout=donut&langs_count=10&exclude_repo=itsmehassaan.github.io,RESTful-Mock-Service-Integration-and-SFTP-)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaan09&layout=donut&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
