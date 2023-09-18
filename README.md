@@ -9,9 +9,9 @@
 
 
 
- <table style="border: none;">
-  <tr style="border: none;">
-    <td align="left" width="70%" style="border: none;">- 🌱 I’m currently learning **Node.js, Express.js and MongoDB** at a Boot Camp https://iec.org.pk/  
+ <table style="border: none; padding: 10px; margin: auto;">
+  <tr style="border: none; padding: 10px; margin: auto;">
+    <td align="left" width="70%" style="border: none; padding: 10px; margin: auto;">- 🌱 I’m currently learning **Node.js, Express.js and MongoDB** at a Boot Camp https://iec.org.pk/  
   
 - 👨‍🎓 Education : **Bachelor of Computer Science** from Comsats University https://www.cuiatd.edu.pk/
   
@@ -23,7 +23,7 @@
  
 -  Pronouns: He/Him
     </td>
-    <td align="right" width="30%" border=none style="border: none;">
+    <td align="right" width="30%" style="border: none; padding: 10px; margin: auto;">
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Your Alt Text"> 
     </td>
   </tr>
