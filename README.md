@@ -1,11 +1,16 @@
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Your Alt Text">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Your Alt Text">  
 ### Hi I am Hassaan 👋
 ### I am a Back-End Developer 👨‍💻 & Machine Learning Enthusiast 
 
 <!--
 **hassaan09/hassaan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Purple Modern Gaming Youtube Banner](https://github.com/hassaan09/hassaan09/assets/82286003/fca58fd8-30f4-4e5e-88ae-2b94af969409)
+  </td>
+    <td align="right" width="40%" >
+     
+    </td>
+  </tr>
+</table>
 -->
 
 
@@ -25,12 +30,7 @@
 - 📫 How to reach me: hassaanindominus09@gmail.com
  
 -  Pronouns: He/Him
-    </td>
-    <td align="right" width="40%" >
-     
-    </td>
-  </tr>
-</table>
+  
 
 [![Hassaan's Github stats](https://github-readme-stats.vercel.app/api?username=hassaan09)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaan09&layout=donut&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
