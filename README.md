@@ -21,18 +21,18 @@
      
 
   
+-    Currently working with Vosyn.ai
+
 - 👨‍🎓 Education : **Bachelor of Computer Science** from Comsats University https://www.cuiatd.edu.pk/
   
 - 🌱 Gained Hands-on experience with  **Node.js, Express.js and MongoDB** at a Boot Camp https://iec.org.pk/  
   
 - 👯 I’m looking to collaborate on real-world projects
-
  
 - 📫 How to reach me: hassaanindominus09@gmail.com
  
--  Pronouns: He/Him
+
   
-###[![Hassaan's Github stats](https://github-readme-stats.vercel.app/api?username=hassaan09)](https://github.com/anuraghazra/github-readme-stats)
-###[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hassaan09&layout=donut&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
