@@ -21,15 +21,13 @@
      
 
   
--    Currently working with Vosyn.ai
+- Currently working at Vosyn.ai
 
-- 👨‍🎓 Education : **Bachelor of Computer Science** from Comsats University https://www.cuiatd.edu.pk/
+- Education : **Bachelor of Computer Science** from Comsats University https://www.cuiatd.edu.pk/
   
-- 🌱 Gained Hands-on experience with  **Node.js, Express.js and MongoDB** at a Boot Camp https://iec.org.pk/  
-  
-- 👯 I’m looking to collaborate on real-world projects
+- I’m looking to collaborate on real-world projects
  
-- 📫 How to reach me: hassaanindominus09@gmail.com
+- How to reach me: hassaanindominus09@gmail.com
  
 
   
